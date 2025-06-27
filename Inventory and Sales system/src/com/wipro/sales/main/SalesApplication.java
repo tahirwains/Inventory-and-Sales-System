@@ -23,6 +23,7 @@ public class SalesApplication {
 
 	public static void main(String[] args)
 	{
+		System.out.println("Starting Inventory System... [Feature: Logging added]");
 		JFrame f=new JFrame("Inventory and Sales System");
 		Font addFontforLabels=new Font("Arial", Font.BOLD, 20);
 		Font addFontfortext=new Font("Arial", Font.BOLD, 15);
